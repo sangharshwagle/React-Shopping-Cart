@@ -5,6 +5,7 @@ function App() {
     <div className = "grid-container">
       <header> 
         <a href = "/"> React Shopping Cart</a>
+        
       </header>
       <main>Products</main>
       <footer> All right reserved</footer>
